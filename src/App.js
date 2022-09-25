@@ -15,7 +15,7 @@ function App() {
   };
 
   const calcularResultado = () => {
-    setInput(evaluar(input));
+    setInput(evaluate(input));
   };
 
   return (
